@@ -14,7 +14,7 @@ We will provide session decks from the online brodcast as soon as they become av
 # Creative & Social Copy 
 The `Creative` folder contains creative banners and images you can use to advertise the Visual Studio 2019 launch and your local events. We will have more images and a variety of sizes to choose from soon. You may use these banners to advertize the main event itself, or your local events in your community. You may add your local meetup name, location and dates to these images. You may not change the Visual Studio 2019 launch event branding. Please contact [VS2019Launch@microsoft.com](mailto:VS2019Launch@microsoft.com) if you have any questions.  
 
-Please help us promote the Visual Studio 2019 launch on social media! On Twitter, use the hashtag [#vs2019](https://twitter.com/search?q=%23vs2019). Here's some examples of posts you can create to help us. 
+Please help us promote the Visual Studio 2019 launch on social media! On Twitter, use the hashtag [#VS2019](https://twitter.com/search?q=%23VS2019). Here's some examples of posts you can create to help us. 
 
 ## Facebook
 
@@ -26,7 +26,7 @@ Make sure to RSVP for session announcements, event locations, and prize opportun
 
 ## Twitter
 
-#vs2019 launch is happening on April 2! Join us for a day of free #VisualStudio #developer content streaming live around the globe. Save the date! https://aka.ms/vs2019launch_savedate
+#VS2019 launch is happening on April 2! Join us for a day of free #VisualStudio #developer content streaming live around the globe. Save the date! https://launch.visualstudio.com
 
 # Syndication
 
