@@ -1,6 +1,6 @@
 # Visual Studio 2019 Launch "Event-in-a-Box"
 
-### April 2nd, 2019 <add link to website>
+### April 2nd, 2019 [https://launch.visualstudio.com/](https://launch.visualstudio.com/)
 Visual Studio 2019 is here! On April 2nd we will broadcast a full day of awesome Visual Studio 2019 technical content to celebrate the launch and get you up to speed with all the new features. This repo contains creative and technical content for running a local launch event or watch party in your community as well as information on how to syndicate the broadcast on your own sites. 
 
 If you are intested in running a local event or watch party between April 2 and June 30, please make sure you let us know by filling out this survey: [www.surveymonkey.com/r/VS2019Launch](https://www.surveymonkey.com/r/VS2019Launch). We will advertize your event on <add link to website> and support you with swag (while supplies last).
