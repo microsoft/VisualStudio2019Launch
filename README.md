@@ -3,7 +3,7 @@
 ### April 2nd, 2019 [https://launch.visualstudio.com/](https://launch.visualstudio.com/)
 Visual Studio 2019 is here! On April 2nd we will broadcast a full day of awesome Visual Studio 2019 technical content to celebrate the launch and get you up to speed with all the new features. This repo contains creative and technical content for running a local launch event or watch party in your community as well as information on how to syndicate the broadcast on your own sites. 
 
-If you are intested in running a local event or watch party between April 2 and June 30, please make sure you let us know by filling out this survey: [www.surveymonkey.com/r/VS2019Launch](https://www.surveymonkey.com/r/VS2019Launch). We will advertize your event on <add link to website> and support you with swag (while supplies last).
+If you are intested in running a local event or watch party between April 2 and June 30, please make sure you let us know by filling out this survey: [www.surveymonkey.com/r/VS2019Launch](https://www.surveymonkey.com/r/VS2019Launch). We will advertize your event [on the launch website](https://visualstudio.microsoft.com/vs2019-launch/local-events/) and support you with swag (while supplies last).
 
 # Event Guidelines
 You are free to organize a watch party to view the online broadcast live and/or organize a presentation, workshop, or hack-a-thon anytime until June 30. The technical content needs to be Visual Studio 2019 related. Topics can include but aren't limited to: Visual Studio and Visual Studio for Mac latest versions, .NET, C++, DevOps, cloud development with Visual Studio & Azure.  
@@ -22,7 +22,7 @@ Save the date for the Visual Studio 2019 launch! - a free event with livestreame
 
 Make sure to RSVP for session announcements, event locations, and prize opportunities!
 
-*Share Facebook Event: [https://www.facebook.com/events/<ADD EVENT ID>/](https://www.facebook.com/events/<add event id>/)*
+*Share Facebook Event: [https://www.facebook.com/events/"ADD EVENT ID"/](https://www.facebook.com/events/"add event id"/)*
 
 ## Twitter
 
@@ -32,3 +32,4 @@ Make sure to RSVP for session announcements, event locations, and prize opportun
 
 Visual Studio 2019 launch will broadcast from Microsoft studios. You can syndicate the broadcast on your own developer-focused sites. Take a look at the [syndication instructions](Syndication/Syndication.pdf) and contact [VS2019Launch@microsoft.com](mailto:VS2019Launch@microsoft.com) and let us know you want to be involved!
 
+*Note: This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).*
