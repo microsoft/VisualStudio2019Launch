@@ -32,3 +32,4 @@ _Then share the [Facebook event here](https://aka.ms/VS2019-FacebookEvent)._
 
 Visual Studio 2019 launch will broadcast from Microsoft studios. You can syndicate the broadcast on your own developer-focused sites. Take a look at the [syndication instructions](Syndication/Syndication.md) and contact [VS2019Launch@microsoft.com](mailto:VS2019Launch@microsoft.com) and let us know you want to be involved!
 
+*Note: This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).*
