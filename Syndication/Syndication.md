@@ -1,7 +1,6 @@
 # Visual Studio 2019 Launch Syndication 
-  
-## April 2, 2019, 9:00am PDT – 5:00pm PDT 
-## Live Stream Embed Instructions for webmasters 
+## April 2, 2019, 9:00am – 5:00pm Pacific Time (UTC-7) 
+### Live Stream Embed Instructions for webmasters 
   
 The Visual Studio 2019 Launch will broadcast from Microsoft studios. You can syndicate the broadcast on your own developer-focused sites. Please contact [vs2019launch@microsoft.com](mailto:vs2019launch@microsoft.com) and let us know! 
 
