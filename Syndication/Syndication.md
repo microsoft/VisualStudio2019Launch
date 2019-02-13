@@ -1,5 +1,5 @@
 # Visual Studio 2019 Launch Syndication 
-## April 2, 2019, 9:00am – 5:00pm Pacific Time (UTC-7) 
+## April 2, 2019, 9:00am – 4:00pm Pacific Time (UTC-7) 
 ### Live Stream Embed Instructions for webmasters 
   
 The Visual Studio 2019 Launch will broadcast from Microsoft studios. You can syndicate the broadcast on your own developer-focused sites. Please contact [vs2019launch@microsoft.com](mailto:vs2019launch@microsoft.com) and let us know! 
@@ -17,13 +17,13 @@ On-demand will be available approximately 10 minutes after the live broadcast co
 
 In the embed code below, please replace `[INSERT_SITE_NAME]` with an identifier for your site. For example, if embedding onto example.com you could use 
 
-`https://mediastream.microsoft.com/events/2018/1809/DotNetConf/player/DotNetConf.html?cid=synd-EXAMPLE` 
+`https://mediastream.microsoft.com/events/2019/1904/VirtualLaunchEvent/player/VirtualLaunchEvent.html?cid=synd-EXAMPLE` 
 
-Please contact [vs2019launch@microsoft.com](mailto:vs2019launch@microsoft.com) with any questions.   
+Please contact [vs2019launch@microsoft.com](mailto:vs2019launch@microsoft.com) to let us know you are interested in syndicating the event.   
 
 ### Please use the code below for implementation:
  
-`<iframe src=https://mediastream.microsoft.com/events/2018/1809/DotNetConf/player/DotNetConf.html?cid=synd-[INSERT_SITE_NAME]' border='0' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen style='overflow:hidden;'> </iframe>` 
+`<iframe src=https://mediastream.microsoft.com/events/2019/1904/VirtualLaunchEvent/player/VirtualLaunchEvent.html?cid=synd-[INSERT_SITE_NAME]' border='0' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen style='overflow:hidden;'> </iframe>` 
  
 ### Content provided  
 Viewers will see the following content beginning 24 hours prior to the event start: 
