@@ -23,7 +23,7 @@ Please contact [vs2019launch@microsoft.com](mailto:vs2019launch@microsoft.com) t
 
 ### Please use the code below for implementation:
  
-`<iframe src=https://mediastream.microsoft.com/events/2019/1904/VirtualLaunchEvent/player/VirtualLaunchEvent.html?cid=synd-[INSERT_SITE_NAME]' border='0' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen style='overflow:hidden;'> </iframe>` 
+`<iframe src='https://mediastream.microsoft.com/events/2019/1904/VirtualLaunchEvent/player/VirtualLaunchEvent.html?cid=synd-[INSERT_SITE_NAME]' border='0' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen='true' style='overflow:hidden;'> </iframe>` 
  
 ### Content provided  
 Viewers will see the following content beginning 24 hours prior to the event start: 
