@@ -1,5 +1,5 @@
 # Visual Studio 2019 Launch "Event-in-a-Box"
-
+[![](Creative/VS_EmailHeader_1000x200.jpg)](https://launch.visualstudio.com/)
 ### April 2nd, 2019 [https://launch.visualstudio.com/](https://launch.visualstudio.com/)
 Visual Studio 2019 is here! On April 2nd we will broadcast a full day of awesome Visual Studio 2019 technical content to celebrate the launch and get you up to speed with all the new features. This repo contains creative and technical content for running a local launch event or watch party in your community as well as information on how to syndicate the broadcast on your own sites. 
 
