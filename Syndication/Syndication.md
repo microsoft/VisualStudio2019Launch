@@ -1,9 +1,9 @@
 # Visual Studio 2019 Launch Syndication 
 ## April 2, 2019, 9:00am – 4:00pm Pacific Time (UTC-7) 
 ### Live stream embed instructions for webmasters 
-  
-The Visual Studio 2019 Launch will broadcast from Microsoft studios. You can syndicate the broadcast on your own developer-focused sites. Please contact [vs2019launch@microsoft.com](mailto:vs2019launch@microsoft.com) and let us know! 
-  
+
+The Visual Studio 2019 Launch will broadcast from Microsoft studios. You can syndicate the broadcast on your own developer-focused sites. Please contact [vs2019launch@microsoft.com](mailto:vs2019launch@microsoft.com) and let us know!
+
 This document contains embed information for the Visual Studio 2019 Launch live streaming player. Sites can easily embed the webcast by inserting the iframe code snippet below. The provided player will be activated with slate and music within 60 minutes of the event’s scheduled start time and transition to on-demand within 10 minutes of the broadcast’s conclusion.   
   
 ### How to and best practices  
