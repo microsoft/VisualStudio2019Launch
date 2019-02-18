@@ -9,7 +9,7 @@ If you are intested in running a local event or watch party between April 2 and 
 You are free to organize a watch party to view the online broadcast live and/or organize a presentation, workshop, or hack-a-thon anytime until June 30. The technical content needs to be Visual Studio 2019 related. Topics can include but aren't limited to: Visual Studio and Visual Studio for Mac latest versions, .NET, C++, DevOps, cloud development with Visual Studio & Azure.  
 
 # Technical Content
-We will provide session decks from the online brodcast as soon as they become available. Check back as we get closer to the event. 
+We will provide session decks from the online broadcast as soon as they become available. Check back as we get closer to the event. 
 
 # Creative & Social Copy 
 The `Creative` folder contains creative banners and images you can use to advertise the Visual Studio 2019 launch and your local events. We will have more images and a variety of sizes to choose from soon. You may use these banners to advertize the main event itself, or your local events in your community. You may add your local meetup name, location and dates to these images. You may not change the Visual Studio 2019 launch event branding. Please contact [VS2019Launch@microsoft.com](mailto:VS2019Launch@microsoft.com) if you have any questions.  
