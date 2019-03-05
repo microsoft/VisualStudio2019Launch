@@ -22,11 +22,11 @@ Save the date for the Visual Studio 2019 launch! - a free event with livestreame
 
 Make sure to RSVP for session announcements, event locations, and prize opportunities!
 
-_Then share the [Facebook event here](https://aka.ms/VS2019-FacebookEvent)._ 
+_Then share the [Visual Studio 2019 Launch Facebook Event](https://aka.ms/VS2019-FacebookEvent)._ 
 
 ## Twitter
 
-#VS2019 launch is happening on April 2! Join us for a day of free #VisualStudio #developer content streaming live around the globe. Save the date! https://launch.visualstudio.com
+#VS2019 launch is happening on April 2! Join us for a day of free #VisualStudio #developer content streaming live around the globe. Save the date! https://visualstudio.microsoft.com/vs2019-launch/?utm_medium=event+in+box&utm_source=GitHub&utm_campaign=event+box&utm_content=launch+vs2019
 
 # Syndication
 
